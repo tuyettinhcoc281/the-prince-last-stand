@@ -1,0 +1,3536 @@
+fileFormatVersion: 2
+guid: a485ca7c492c687408907d9a2c6b3436
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8229891905090565109
+    second: PlayerFlipping_0
+  - first:
+      213: 3000274682847849091
+    second: PlayerFlipping_1
+  - first:
+      213: 4047681199478128118
+    second: PlayerFlipping_2
+  - first:
+      213: -6149736038882673776
+    second: PlayerFlipping_3
+  - first:
+      213: 1718250629048551244
+    second: PlayerFlipping_4
+  - first:
+      213: 2748754285005004172
+    second: PlayerFlipping_5
+  - first:
+      213: 8626359942625131804
+    second: PlayerFlipping_6
+  - first:
+      213: -8560466173828579395
+    second: PlayerFlipping_7
+  - first:
+      213: 2117039875120951492
+    second: PlayerFlipping_8
+  - first:
+      213: 3848902689051809719
+    second: PlayerFlipping_9
+  - first:
+      213: -3000470118946593027
+    second: PlayerFlipping_10
+  - first:
+      213: 7350543287990111864
+    second: PlayerFlipping_11
+  - first:
+      213: -674588073649158625
+    second: PlayerFlipping_12
+  - first:
+      213: -3064624410413274932
+    second: PlayerFlipping_13
+  - first:
+      213: -7000529024883513313
+    second: PlayerFlipping_14
+  - first:
+      213: 7163864800857108079
+    second: PlayerFlipping_15
+  - first:
+      213: -1363000636313704943
+    second: PlayerFlipping_16
+  - first:
+      213: -2645472978893127995
+    second: PlayerFlipping_17
+  - first:
+      213: -2297294736221697675
+    second: PlayerFlipping_18
+  - first:
+      213: 7491242902110315212
+    second: PlayerFlipping_19
+  - first:
+      213: 472486888303832241
+    second: PlayerFlipping_20
+  - first:
+      213: 7192514859599517751
+    second: PlayerFlipping_21
+  - first:
+      213: -6029885353799717207
+    second: PlayerFlipping_22
+  - first:
+      213: 1371741007810831102
+    second: PlayerFlipping_23
+  - first:
+      213: 8729723516228380708
+    second: PlayerFlipping_24
+  - first:
+      213: -1304115876775465693
+    second: PlayerFlipping_25
+  - first:
+      213: 4370519816417135106
+    second: PlayerFlipping_26
+  - first:
+      213: 2278476122992102795
+    second: PlayerFlipping_27
+  - first:
+      213: 643430046804444560
+    second: PlayerFlipping_28
+  - first:
+      213: -5507531375576107567
+    second: PlayerFlipping_29
+  - first:
+      213: -4811070186708614247
+    second: PlayerFlipping_30
+  - first:
+      213: -2041905041627270871
+    second: PlayerFlipping_31
+  - first:
+      213: -5072846419815602627
+    second: PlayerFlipping_32
+  - first:
+      213: 2174443667537078599
+    second: PlayerFlipping_33
+  - first:
+      213: 2133544493111326907
+    second: PlayerFlipping_34
+  - first:
+      213: -1804306481313524117
+    second: PlayerFlipping_35
+  - first:
+      213: -342408803299090346
+    second: PlayerFlipping_36
+  - first:
+      213: -2195620694912311618
+    second: PlayerFlipping_37
+  - first:
+      213: 9004047333911380011
+    second: PlayerFlipping_38
+  - first:
+      213: -1516152573792498288
+    second: PlayerFlipping_39
+  - first:
+      213: 3484387256796404129
+    second: PlayerFlipping_40
+  - first:
+      213: 6281230580268459373
+    second: PlayerFlipping_41
+  - first:
+      213: -1839768230172631731
+    second: PlayerFlipping_42
+  - first:
+      213: -6860018150527965335
+    second: PlayerFlipping_43
+  - first:
+      213: -3434660329577679948
+    second: PlayerFlipping_44
+  - first:
+      213: 3244315893500556246
+    second: PlayerFlipping_45
+  - first:
+      213: -3665244483282436581
+    second: PlayerFlipping_46
+  - first:
+      213: -4283176990777785176
+    second: PlayerFlipping_47
+  - first:
+      213: -2937031992310014722
+    second: PlayerFlipping_48
+  - first:
+      213: -3876455600980801816
+    second: PlayerFlipping_49
+  - first:
+      213: -7238806947919202429
+    second: PlayerFlipping_50
+  - first:
+      213: -693986167158301467
+    second: PlayerFlipping_51
+  - first:
+      213: 1036636168575031701
+    second: PlayerFlipping_52
+  - first:
+      213: 1583277438721558013
+    second: PlayerFlipping_53
+  - first:
+      213: -7632534815555548073
+    second: PlayerFlipping_54
+  - first:
+      213: 8874787482333532540
+    second: PlayerFlipping_55
+  - first:
+      213: 3299702132078360021
+    second: PlayerFlipping_56
+  - first:
+      213: -2811417820707351207
+    second: PlayerFlipping_57
+  - first:
+      213: -7205911320537993868
+    second: PlayerFlipping_58
+  - first:
+      213: -8528898259898724389
+    second: PlayerFlipping_59
+  - first:
+      213: -4082459564409685870
+    second: PlayerFlipping_60
+  - first:
+      213: 4691068059259865519
+    second: PlayerFlipping_61
+  - first:
+      213: -7999723632712820517
+    second: PlayerFlipping_62
+  - first:
+      213: -2166517662685775809
+    second: PlayerFlipping_63
+  - first:
+      213: 9113471772352684356
+    second: PlayerFlipping_64
+  - first:
+      213: -2400690959628698471
+    second: PlayerFlipping_65
+  - first:
+      213: 4975333837959943143
+    second: PlayerFlipping_66
+  - first:
+      213: 3077683754068459999
+    second: PlayerFlipping_67
+  - first:
+      213: -709979476210800376
+    second: PlayerFlipping_68
+  - first:
+      213: -559259986723349281
+    second: PlayerFlipping_69
+  - first:
+      213: -2472895662392298058
+    second: PlayerFlipping_70
+  - first:
+      213: 1782755146468160222
+    second: PlayerFlipping_71
+  - first:
+      213: -6922373294166962315
+    second: PlayerFlipping_72
+  - first:
+      213: 292770482569529614
+    second: PlayerFlipping_73
+  - first:
+      213: -3580774574255615375
+    second: PlayerFlipping_74
+  - first:
+      213: -4187773398511168662
+    second: PlayerFlipping_75
+  - first:
+      213: 8713483747701527825
+    second: PlayerFlipping_76
+  - first:
+      213: 4212717325493355030
+    second: PlayerFlipping_77
+  - first:
+      213: -1135205199414556137
+    second: PlayerFlipping_78
+  - first:
+      213: -377735573839637932
+    second: PlayerFlipping_79
+  - first:
+      213: 2784216573002131159
+    second: PlayerFlipping_80
+  - first:
+      213: -7983768523849957660
+    second: PlayerFlipping_81
+  - first:
+      213: -3091084041358507352
+    second: PlayerFlipping_82
+  - first:
+      213: -4031472901176109836
+    second: PlayerFlipping_83
+  - first:
+      213: 6615355305944071875
+    second: PlayerFlipping_84
+  - first:
+      213: 3663398937688539991
+    second: PlayerFlipping_85
+  - first:
+      213: 7781577735747435508
+    second: PlayerFlipping_86
+  - first:
+      213: 2798418197349435363
+    second: PlayerFlipping_87
+  - first:
+      213: 1189546588233022669
+    second: PlayerFlipping_88
+  - first:
+      213: -665948890925851069
+    second: PlayerFlipping_89
+  - first:
+      213: 9013277021249831337
+    second: PlayerFlipping_90
+  - first:
+      213: -3570039352699510461
+    second: PlayerFlipping_91
+  - first:
+      213: -3220146520539556106
+    second: PlayerFlipping_92
+  - first:
+      213: -286437025754375142
+    second: PlayerFlipping_93
+  - first:
+      213: -3062232206636770525
+    second: PlayerFlipping_94
+  - first:
+      213: 8846501804044061675
+    second: PlayerFlipping_95
+  - first:
+      213: -3767254541708173998
+    second: PlayerFlipping_96
+  - first:
+      213: 8647784257712703100
+    second: PlayerFlipping_97
+  - first:
+      213: 1173980578657278239
+    second: PlayerFlipping_98
+  - first:
+      213: 5966046313818393859
+    second: PlayerFlipping_99
+  - first:
+      213: 2010203010963248987
+    second: PlayerFlipping_100
+  - first:
+      213: 4272078831649562459
+    second: PlayerFlipping_101
+  - first:
+      213: 7182443242465190185
+    second: PlayerFlipping_102
+  - first:
+      213: -2714802288854444882
+    second: PlayerFlipping_103
+  - first:
+      213: -7014910997005139726
+    second: PlayerFlipping_104
+  - first:
+      213: -1858530379351751339
+    second: PlayerFlipping_105
+  - first:
+      213: -2459851502275298412
+    second: PlayerFlipping_106
+  - first:
+      213: 8945367809768809473
+    second: PlayerFlipping_107
+  - first:
+      213: 8527517737898904728
+    second: PlayerFlipping_108
+  - first:
+      213: -3998888371159323102
+    second: PlayerFlipping_109
+  - first:
+      213: -135548883401559435
+    second: PlayerFlipping_110
+  - first:
+      213: -4549593903300004631
+    second: PlayerFlipping_111
+  - first:
+      213: 461178981048407000
+    second: PlayerFlipping_112
+  - first:
+      213: 3447445629147589217
+    second: PlayerFlipping_113
+  - first:
+      213: 6041059569983167240
+    second: PlayerFlipping_114
+  - first:
+      213: 228247705751408851
+    second: PlayerFlipping_115
+  - first:
+      213: -230888504160310446
+    second: PlayerFlipping_116
+  - first:
+      213: -5116910917406571372
+    second: PlayerFlipping_117
+  - first:
+      213: -7519984474577554994
+    second: PlayerFlipping_118
+  - first:
+      213: -4285876940682735052
+    second: PlayerFlipping_119
+  - first:
+      213: 315167821968595539
+    second: PlayerFlipping_120
+  - first:
+      213: -5689168032354138867
+    second: PlayerFlipping_121
+  - first:
+      213: 5976002058710933225
+    second: PlayerFlipping_122
+  - first:
+      213: -5622079540194010693
+    second: PlayerFlipping_123
+  - first:
+      213: -149204768800233629
+    second: PlayerFlipping_124
+  - first:
+      213: -6009588154933069069
+    second: PlayerFlipping_125
+  - first:
+      213: -8656083766947661073
+    second: PlayerFlipping_126
+  - first:
+      213: 1522447186176470906
+    second: PlayerFlipping_127
+  - first:
+      213: -5066664302225156281
+    second: PlayerFlipping_128
+  - first:
+      213: -627930399425349125
+    second: PlayerFlipping_129
+  - first:
+      213: 701635565380630690
+    second: PlayerFlipping_130
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerFlipping_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 774
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f339c67513763270800000000000000
+      internalID: 8229891905090565109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 774
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a6ebb8ded13a920800000000000000
+      internalID: 3000274682847849091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 774
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdbbeafa904c2830800000000000000
+      internalID: 4047681199478128118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 774
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bfaf3c7afb7aaa0800000000000000
+      internalID: -6149736038882673776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 774
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47c78be7d378d710800000000000000
+      internalID: 1718250629048551244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 774
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d5e8c6579852620800000000000000
+      internalID: 2748754285005004172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 742
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d74d4d9acf6b770800000000000000
+      internalID: 8626359942625131804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 742
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf3335ce5d133980800000000000000
+      internalID: -8560466173828579395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 742
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0fbe3cc8c316d10800000000000000
+      internalID: 2117039875120951492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 742
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b79af37a9c0a6530800000000000000
+      internalID: 3848902689051809719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 742
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6a301f2503c56d0800000000000000
+      internalID: -3000470118946593027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 742
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e48c2fc20620660800000000000000
+      internalID: 7350543287990111864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 710
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f164d6c98b163a6f0800000000000000
+      internalID: -674588073649158625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 710
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc86357f5544875d0800000000000000
+      internalID: -3064624410413274932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 710
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18a10831ff19de90800000000000000
+      internalID: -7000529024883513313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_15
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 710
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e2302a4192b6360800000000000000
+      internalID: 7163864800857108079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_16
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 710
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116e3eb8426a51de0800000000000000
+      internalID: -1363000636313704943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_17
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 710
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce3e2e8754694bd0800000000000000
+      internalID: -2645472978893127995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 678
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5798127eb9e5e10e0800000000000000
+      internalID: -2297294736221697675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 678
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2a37aaabd36f760800000000000000
+      internalID: 7491242902110315212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_20
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 678
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc2162525c9e8600800000000000000
+      internalID: 472486888303832241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 678
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738d5204822f0d360800000000000000
+      internalID: 7192514859599517751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_22
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 678
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aeef6ae73b815ca0800000000000000
+      internalID: -6029885353799717207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_23
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 678
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2a666cd27690310800000000000000
+      internalID: 1371741007810831102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 646
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428aa243945362970800000000000000
+      internalID: 8729723516228380708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_25
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 646
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32de9d20589d6ede0800000000000000
+      internalID: -1304115876775465693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 646
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a4955fd9437ac30800000000000000
+      internalID: 4370519816417135106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_27
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 646
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d472446f5ce9f10800000000000000
+      internalID: 2278476122992102795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_28
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 646
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0958791f73cede800800000000000000
+      internalID: 643430046804444560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_29
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 646
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5b771e4615193b0800000000000000
+      internalID: -5507531375576107567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_30
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 614
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993c2c3c725ab3db0800000000000000
+      internalID: -4811070186708614247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_31
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 614
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9213ab0ee22b9a3e0800000000000000
+      internalID: -2041905041627270871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_32
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 614
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3667caee01a999b0800000000000000
+      internalID: -5072846419815602627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_33
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 614
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74925a3befc2d2e10800000000000000
+      internalID: 2174443667537078599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_34
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 614
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb83468996fdb9d10800000000000000
+      internalID: 2133544493111326907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_35
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 614
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b665f5b90d0d5f6e0800000000000000
+      internalID: -1804306481313524117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_36
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 582
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650246fe1058f3bf0800000000000000
+      internalID: -342408803299090346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_37
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 582
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe51426c969781e0800000000000000
+      internalID: -2195620694912311618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_38
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 582
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20479e385dc4fc70800000000000000
+      internalID: 9004047333911380011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_39
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 575
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dcdcd544b85fae0800000000000000
+      internalID: -1516152573792498288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_40
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 582
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a95f3dbfb70b5030800000000000000
+      internalID: 3484387256796404129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_41
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 549
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65e831fee96b2750800000000000000
+      internalID: 6281230580268459373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_42
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 550
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dd28bca84d776e0800000000000000
+      internalID: -1839768230172631731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_43
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 543
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9676c0986d15cc0a0800000000000000
+      internalID: -6860018150527965335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_44
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 550
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3756bb0a2a550d0800000000000000
+      internalID: -3434660329577679948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_45
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 518
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d33143bd10260d20800000000000000
+      internalID: 3244315893500556246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_46
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 513
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e7dfecf8f622dc0800000000000000
+      internalID: -3665244483282436581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_47
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 512
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4409a58391f84c0800000000000000
+      internalID: -4283176990777785176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_48
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 518
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc576cc6f09d37d0800000000000000
+      internalID: -2937031992310014722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_49
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 486
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e647f35b20143ac0800000000000000
+      internalID: -3876455600980801816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_50
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 484
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38775a70f679a8b90800000000000000
+      internalID: -7238806947919202429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_51
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 481
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec9e7302477e56f0800000000000000
+      internalID: -693986167158301467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_52
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 486
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5999c3d5a1fd26e00800000000000000
+      internalID: 1036636168575031701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_53
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 454
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df583e3217ee8f510800000000000000
+      internalID: 1583277438721558013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_54
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 454
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c820f260ac31690800000000000000
+      internalID: -7632534815555548073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_55
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 454
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71d29dc134992b70800000000000000
+      internalID: 8874787482333532540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_56
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 449
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d531274b95eacd20800000000000000
+      internalID: 3299702132078360021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_57
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 454
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95519893366dbf8d0800000000000000
+      internalID: -2811417820707351207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_58
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 422
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ded5025d57ffb90800000000000000
+      internalID: -7205911320537993868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_59
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 424
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf0a4d783443a980800000000000000
+      internalID: -8528898259898724389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_60
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 422
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298f67de7a03857c0800000000000000
+      internalID: -4082459564409685870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_61
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 422
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa98d59ab850a1140800000000000000
+      internalID: 4691068059259865519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_62
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 421
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8dada8db54bf090800000000000000
+      internalID: -7999723632712820517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_63
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 390
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38310c1aabfee1e0800000000000000
+      internalID: -2166517662685775809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_64
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 390
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441a1adaa4e897e70800000000000000
+      internalID: 9113471772352684356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_65
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 391
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cf6d7aa480faed0800000000000000
+      internalID: -2400690959628698471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_66
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 390
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e35592e3cfeb0540800000000000000
+      internalID: 4975333837959943143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_67
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 390
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1cd3c611126ba20800000000000000
+      internalID: 3077683754068459999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_68
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 358
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80923a29d65a526f0800000000000000
+      internalID: -709979476210800376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_69
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 359
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcd342510c1d38f0800000000000000
+      internalID: -559259986723349281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_70
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 358
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5b08c3f728eadd0800000000000000
+      internalID: -2472895662392298058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_71
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 358
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2fbba3c5e9db810800000000000000
+      internalID: 1782755146468160222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_72
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 358
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f078e4a2aceef90800000000000000
+      internalID: -6922373294166962315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_73
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 326
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09c646e331201400800000000000000
+      internalID: 292770482569529614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_74
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 326
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1725eb81f788e4ec0800000000000000
+      internalID: -3580774574255615375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_75
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 326
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6359e5284a02e5c0800000000000000
+      internalID: -4187773398511168662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_76
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 326
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11593e17d438ce870800000000000000
+      internalID: 8713483747701527825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_77
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 294
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6124a2d6614967a30800000000000000
+      internalID: 4212717325493355030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_78
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 294
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a08bdb2e0fe30f0800000000000000
+      internalID: -1135205199414556137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_79
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 294
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45292463f7302caf0800000000000000
+      internalID: -377735573839637932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_80
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 294
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d62c83c83683a620800000000000000
+      internalID: 2784216573002131159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_81
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 262
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee7afec3d4f33190800000000000000
+      internalID: -7983768523849957660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_82
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 262
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a282ff01734a15d0800000000000000
+      internalID: -3091084041358507352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_83
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 262
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4d8cb81c45d08c0800000000000000
+      internalID: -4031472901176109836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_84
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 262
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cebac1e9967ecb50800000000000000
+      internalID: 6615355305944071875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_85
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 230
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753087f9ce107d230800000000000000
+      internalID: 3663398937688539991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_86
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 230
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb705bd8b7bdfb60800000000000000
+      internalID: 7781577735747435508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_87
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 230
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7800a168af5d620800000000000000
+      internalID: 2798418197349435363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_88
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 230
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc386bc15e128010800000000000000
+      internalID: 1189546588233022669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_89
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 198
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e9cc5130312c6f0800000000000000
+      internalID: -665948890925851069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_90
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 198
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a189c942b7951d70800000000000000
+      internalID: 9013277021249831337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_91
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 198
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3412e24af1ca47ec0800000000000000
+      internalID: -3570039352699510461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_92
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 198
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f69786fccdbf43d0800000000000000
+      internalID: -3220146520539556106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_93
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 165
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c146dea0f560cf0800000000000000
+      internalID: -286437025754375142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_94
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 165
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b97af4804c085d0800000000000000
+      internalID: -3062232206636770525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_95
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 165
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb06ee158615ca70800000000000000
+      internalID: 8846501804044061675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_96
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 165
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dd10f34f508bbc0800000000000000
+      internalID: -3767254541708173998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_97
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 164
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c764e27e6f9130870800000000000000
+      internalID: 8647784257712703100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_98
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 159
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f191314cd11da4010800000000000000
+      internalID: 1173980578657278239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_99
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 134
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d8ca05387abc250800000000000000
+      internalID: 5966046313818393859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_100
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 134
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5792eaecfca5eb10800000000000000
+      internalID: 2010203010963248987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_101
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 134
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f10fc1019794b30800000000000000
+      internalID: 4272078831649562459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_102
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 134
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921ea86231a2da360800000000000000
+      internalID: 7182443242465190185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_103
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 134
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4d961b3b5135ad0800000000000000
+      internalID: -2714802288854444882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_104
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 134
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f007846d9706ae90800000000000000
+      internalID: -7014910997005139726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_105
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 102
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5558776877c2536e0800000000000000
+      internalID: -1858530379351751339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_106
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 102
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b7bae671adcddd0800000000000000
+      internalID: -2459851502275298412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_107
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 102
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104eb7ed0a4542c70800000000000000
+      internalID: 8945367809768809473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_108
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 102
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c8e4fa334d75670800000000000000
+      internalID: 8527517737898904728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_109
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 102
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22eab94a6381188c0800000000000000
+      internalID: -3998888371159323102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_110
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 102
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572362b320f6e1ef0800000000000000
+      internalID: -135548883401559435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_111
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 70
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4358123789cd0c0800000000000000
+      internalID: -4549593903300004631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_112
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 70
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3544ff6df666600800000000000000
+      internalID: 461178981048407000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_113
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 70
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16aa0dbc889c7df20800000000000000
+      internalID: 3447445629147589217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_114
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 70
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b12d70ca726d350800000000000000
+      internalID: 6041059569983167240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_115
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 70
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d05c1e3416ea2300800000000000000
+      internalID: 228247705751408851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_116
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 70
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25badc6f028bbccf0800000000000000
+      internalID: -230888504160310446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_117
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 38
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494c9a491a41df8b0800000000000000
+      internalID: -5116910917406571372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_118
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 38
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec13a5486f5a3a790800000000000000
+      internalID: -7519984474577554994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_119
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 38
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432519741a18584c0800000000000000
+      internalID: -4285876940682735052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_120
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 38
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a5219d673bf5400800000000000000
+      internalID: 315167821968595539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_121
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 38
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05060c21d30c01b0800000000000000
+      internalID: -5689168032354138867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_122
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 38
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eed77ec5360fe250800000000000000
+      internalID: 5976002058710933225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_123
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb99ebbf17c5af1b0800000000000000
+      internalID: -5622079540194010693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_124
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 6
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3672ed4ad0bededf0800000000000000
+      internalID: -149204768800233629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_125
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 6
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fab1dac967a99ca0800000000000000
+      internalID: -6009588154933069069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_126
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 6
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea3f050da96fd780800000000000000
+      internalID: -8656083766947661073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_127
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 6
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f675946a1d02510800000000000000
+      internalID: 1522447186176470906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_128
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 6
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74797b559a79fa9b0800000000000000
+      internalID: -5066664302225156281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_129
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 6
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9359ee0a42947f0800000000000000
+      internalID: -627930399425349125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlipping_130
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 6
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8fa4c44d5bcb900800000000000000
+      internalID: 701635565380630690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PlayerFlipping_0: 8229891905090565109
+      PlayerFlipping_1: 3000274682847849091
+      PlayerFlipping_10: -3000470118946593027
+      PlayerFlipping_100: 2010203010963248987
+      PlayerFlipping_101: 4272078831649562459
+      PlayerFlipping_102: 7182443242465190185
+      PlayerFlipping_103: -2714802288854444882
+      PlayerFlipping_104: -7014910997005139726
+      PlayerFlipping_105: -1858530379351751339
+      PlayerFlipping_106: -2459851502275298412
+      PlayerFlipping_107: 8945367809768809473
+      PlayerFlipping_108: 8527517737898904728
+      PlayerFlipping_109: -3998888371159323102
+      PlayerFlipping_11: 7350543287990111864
+      PlayerFlipping_110: -135548883401559435
+      PlayerFlipping_111: -4549593903300004631
+      PlayerFlipping_112: 461178981048407000
+      PlayerFlipping_113: 3447445629147589217
+      PlayerFlipping_114: 6041059569983167240
+      PlayerFlipping_115: 228247705751408851
+      PlayerFlipping_116: -230888504160310446
+      PlayerFlipping_117: -5116910917406571372
+      PlayerFlipping_118: -7519984474577554994
+      PlayerFlipping_119: -4285876940682735052
+      PlayerFlipping_12: -674588073649158625
+      PlayerFlipping_120: 315167821968595539
+      PlayerFlipping_121: -5689168032354138867
+      PlayerFlipping_122: 5976002058710933225
+      PlayerFlipping_123: -5622079540194010693
+      PlayerFlipping_124: -149204768800233629
+      PlayerFlipping_125: -6009588154933069069
+      PlayerFlipping_126: -8656083766947661073
+      PlayerFlipping_127: 1522447186176470906
+      PlayerFlipping_128: -5066664302225156281
+      PlayerFlipping_129: -627930399425349125
+      PlayerFlipping_13: -3064624410413274932
+      PlayerFlipping_130: 701635565380630690
+      PlayerFlipping_14: -7000529024883513313
+      PlayerFlipping_15: 7163864800857108079
+      PlayerFlipping_16: -1363000636313704943
+      PlayerFlipping_17: -2645472978893127995
+      PlayerFlipping_18: -2297294736221697675
+      PlayerFlipping_19: 7491242902110315212
+      PlayerFlipping_2: 4047681199478128118
+      PlayerFlipping_20: 472486888303832241
+      PlayerFlipping_21: 7192514859599517751
+      PlayerFlipping_22: -6029885353799717207
+      PlayerFlipping_23: 1371741007810831102
+      PlayerFlipping_24: 8729723516228380708
+      PlayerFlipping_25: -1304115876775465693
+      PlayerFlipping_26: 4370519816417135106
+      PlayerFlipping_27: 2278476122992102795
+      PlayerFlipping_28: 643430046804444560
+      PlayerFlipping_29: -5507531375576107567
+      PlayerFlipping_3: -6149736038882673776
+      PlayerFlipping_30: -4811070186708614247
+      PlayerFlipping_31: -2041905041627270871
+      PlayerFlipping_32: -5072846419815602627
+      PlayerFlipping_33: 2174443667537078599
+      PlayerFlipping_34: 2133544493111326907
+      PlayerFlipping_35: -1804306481313524117
+      PlayerFlipping_36: -342408803299090346
+      PlayerFlipping_37: -2195620694912311618
+      PlayerFlipping_38: 9004047333911380011
+      PlayerFlipping_39: -1516152573792498288
+      PlayerFlipping_4: 1718250629048551244
+      PlayerFlipping_40: 3484387256796404129
+      PlayerFlipping_41: 6281230580268459373
+      PlayerFlipping_42: -1839768230172631731
+      PlayerFlipping_43: -6860018150527965335
+      PlayerFlipping_44: -3434660329577679948
+      PlayerFlipping_45: 3244315893500556246
+      PlayerFlipping_46: -3665244483282436581
+      PlayerFlipping_47: -4283176990777785176
+      PlayerFlipping_48: -2937031992310014722
+      PlayerFlipping_49: -3876455600980801816
+      PlayerFlipping_5: 2748754285005004172
+      PlayerFlipping_50: -7238806947919202429
+      PlayerFlipping_51: -693986167158301467
+      PlayerFlipping_52: 1036636168575031701
+      PlayerFlipping_53: 1583277438721558013
+      PlayerFlipping_54: -7632534815555548073
+      PlayerFlipping_55: 8874787482333532540
+      PlayerFlipping_56: 3299702132078360021
+      PlayerFlipping_57: -2811417820707351207
+      PlayerFlipping_58: -7205911320537993868
+      PlayerFlipping_59: -8528898259898724389
+      PlayerFlipping_6: 8626359942625131804
+      PlayerFlipping_60: -4082459564409685870
+      PlayerFlipping_61: 4691068059259865519
+      PlayerFlipping_62: -7999723632712820517
+      PlayerFlipping_63: -2166517662685775809
+      PlayerFlipping_64: 9113471772352684356
+      PlayerFlipping_65: -2400690959628698471
+      PlayerFlipping_66: 4975333837959943143
+      PlayerFlipping_67: 3077683754068459999
+      PlayerFlipping_68: -709979476210800376
+      PlayerFlipping_69: -559259986723349281
+      PlayerFlipping_7: -8560466173828579395
+      PlayerFlipping_70: -2472895662392298058
+      PlayerFlipping_71: 1782755146468160222
+      PlayerFlipping_72: -6922373294166962315
+      PlayerFlipping_73: 292770482569529614
+      PlayerFlipping_74: -3580774574255615375
+      PlayerFlipping_75: -4187773398511168662
+      PlayerFlipping_76: 8713483747701527825
+      PlayerFlipping_77: 4212717325493355030
+      PlayerFlipping_78: -1135205199414556137
+      PlayerFlipping_79: -377735573839637932
+      PlayerFlipping_8: 2117039875120951492
+      PlayerFlipping_80: 2784216573002131159
+      PlayerFlipping_81: -7983768523849957660
+      PlayerFlipping_82: -3091084041358507352
+      PlayerFlipping_83: -4031472901176109836
+      PlayerFlipping_84: 6615355305944071875
+      PlayerFlipping_85: 3663398937688539991
+      PlayerFlipping_86: 7781577735747435508
+      PlayerFlipping_87: 2798418197349435363
+      PlayerFlipping_88: 1189546588233022669
+      PlayerFlipping_89: -665948890925851069
+      PlayerFlipping_9: 3848902689051809719
+      PlayerFlipping_90: 9013277021249831337
+      PlayerFlipping_91: -3570039352699510461
+      PlayerFlipping_92: -3220146520539556106
+      PlayerFlipping_93: -286437025754375142
+      PlayerFlipping_94: -3062232206636770525
+      PlayerFlipping_95: 8846501804044061675
+      PlayerFlipping_96: -3767254541708173998
+      PlayerFlipping_97: 8647784257712703100
+      PlayerFlipping_98: 1173980578657278239
+      PlayerFlipping_99: 5966046313818393859
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
