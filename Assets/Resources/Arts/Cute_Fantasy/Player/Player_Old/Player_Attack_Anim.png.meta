@@ -1,115 +1,115 @@
 fileFormatVersion: 2
-guid: 8d91a555b32952b46bb1894a31574825
+guid: bebb2010c36932242a36091084bba414
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4607577486004578798
-    second: Player_Attack_NoWeapon_0
+      213: -3796593151376779655
+    second: Player_Attack_Anim_0
   - first:
-      213: -1595969989498960136
-    second: Player_Attack_NoWeapon_1
+      213: -2117733330006916345
+    second: Player_Attack_Anim_1
   - first:
-      213: 4824966484558197520
-    second: Player_Attack_NoWeapon_2
+      213: -1217365399848997999
+    second: Player_Attack_Anim_2
   - first:
-      213: 3385112877970529333
-    second: Player_Attack_NoWeapon_3
+      213: 8875181877302479121
+    second: Player_Attack_Anim_3
   - first:
-      213: -6089507422828621876
-    second: Player_Attack_NoWeapon_4
+      213: 2719046875213830938
+    second: Player_Attack_Anim_4
   - first:
-      213: -4657737529818370031
-    second: Player_Attack_NoWeapon_5
+      213: 1499222706054077194
+    second: Player_Attack_Anim_5
   - first:
-      213: -7341567828608687620
-    second: Player_Attack_NoWeapon_6
+      213: 4463154238611974972
+    second: Player_Attack_Anim_6
   - first:
-      213: -15530196982149824
-    second: Player_Attack_NoWeapon_7
+      213: 2508719883476898380
+    second: Player_Attack_Anim_7
   - first:
-      213: 9010180118457097260
-    second: Player_Attack_NoWeapon_8
+      213: 5738176340165330191
+    second: Player_Attack_Anim_8
   - first:
-      213: 4412275118266782422
-    second: Player_Attack_NoWeapon_9
+      213: -1526554388950435722
+    second: Player_Attack_Anim_9
   - first:
-      213: 4050276000064250884
-    second: Player_Attack_NoWeapon_10
+      213: 4331358246292791840
+    second: Player_Attack_Anim_10
   - first:
-      213: -8747894808430044968
-    second: Player_Attack_NoWeapon_11
+      213: -4899954884887493228
+    second: Player_Attack_Anim_11
   - first:
-      213: -6767385835704882173
-    second: Player_Attack_NoWeapon_12
+      213: -5215454500408618036
+    second: Player_Attack_Anim_12
   - first:
-      213: 8031745924563399660
-    second: Player_Attack_NoWeapon_13
+      213: -5689694490193580291
+    second: Player_Attack_Anim_13
   - first:
-      213: -5716926224420759961
-    second: Player_Attack_NoWeapon_14
+      213: -2752998668852782378
+    second: Player_Attack_Anim_14
   - first:
-      213: 4524192123672681748
-    second: Player_Attack_NoWeapon_15
+      213: -3520424249661482467
+    second: Player_Attack_Anim_15
   - first:
-      213: -8457609233939091166
-    second: Player_Attack_NoWeapon_16
+      213: 1979385619843057759
+    second: Player_Attack_Anim_16
   - first:
-      213: -4950139279956267795
-    second: Player_Attack_NoWeapon_17
+      213: -36599013192300162
+    second: Player_Attack_Anim_17
   - first:
-      213: 2715821576545188397
-    second: Player_Attack_NoWeapon_18
+      213: -2958099457507420243
+    second: Player_Attack_Anim_18
   - first:
-      213: -2028172398123974216
-    second: Player_Attack_NoWeapon_19
+      213: 1135959108612605454
+    second: Player_Attack_Anim_19
   - first:
-      213: 3114608898470192600
-    second: Player_Attack_NoWeapon_20
+      213: -1668423126609706571
+    second: Player_Attack_Anim_20
   - first:
-      213: 4609646464469737279
-    second: Player_Attack_NoWeapon_21
+      213: -1071159317864457815
+    second: Player_Attack_Anim_21
   - first:
-      213: 8977391392069938889
-    second: Player_Attack_NoWeapon_22
+      213: -1257348765745944498
+    second: Player_Attack_Anim_22
   - first:
-      213: -7412106385125673786
-    second: Player_Attack_NoWeapon_23
+      213: 7940781379632868554
+    second: Player_Attack_Anim_23
   - first:
-      213: 1482566552698772691
-    second: Player_Attack_NoWeapon_24
+      213: 3844171336991735128
+    second: Player_Attack_Anim_24
   - first:
-      213: 4572964306844563613
-    second: Player_Attack_NoWeapon_25
+      213: 3368103457988535768
+    second: Player_Attack_Anim_25
   - first:
-      213: -2398337156230041562
-    second: Player_Attack_NoWeapon_26
+      213: 4133196139935671584
+    second: Player_Attack_Anim_26
   - first:
-      213: 7390210794446356495
-    second: Player_Attack_NoWeapon_27
+      213: 3763743279738110325
+    second: Player_Attack_Anim_27
   - first:
-      213: 4929942590519506451
-    second: Player_Attack_NoWeapon_28
+      213: -8536184053895632399
+    second: Player_Attack_Anim_28
   - first:
-      213: -8649964982310769935
-    second: Player_Attack_NoWeapon_29
+      213: -5908580611960410375
+    second: Player_Attack_Anim_29
   - first:
-      213: -3946917584000167842
-    second: Player_Attack_NoWeapon_30
+      213: -5669835136545683164
+    second: Player_Attack_Anim_30
   - first:
-      213: 7225492699923136965
-    second: Player_Attack_NoWeapon_31
+      213: -7810187538852608592
+    second: Player_Attack_Anim_31
   - first:
-      213: 7339096987463832082
-    second: Player_Attack_NoWeapon_32
+      213: 3584686316442412814
+    second: Player_Attack_Anim_32
   - first:
-      213: -5942781606652836014
-    second: Player_Attack_NoWeapon_33
+      213: -8318533576095984044
+    second: Player_Attack_Anim_33
   - first:
-      213: -1572371425090995077
-    second: Player_Attack_NoWeapon_34
+      213: -6123441771933362747
+    second: Player_Attack_Anim_34
   - first:
-      213: 760247549891883041
-    second: Player_Attack_NoWeapon_35
+      213: 4470960668316215822
+    second: Player_Attack_Anim_35
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -142,7 +142,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -156,7 +156,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -180,7 +180,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -218,189 +218,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Player_Attack_NoWeapon_0
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 263
-        width: 14
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2161c9f30b89e00c0800000000000000
-      internalID: -4607577486004578798
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Attack_NoWeapon_1
-      rect:
-        serializedVersion: 2
-        x: 39
-        y: 263
-        width: 15
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8f60bb710c9f9d9e0800000000000000
-      internalID: -1595969989498960136
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Attack_NoWeapon_2
-      rect:
-        serializedVersion: 2
-        x: 73
-        y: 263
-        width: 14
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 013b1453479b5f240800000000000000
-      internalID: 4824966484558197520
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Attack_NoWeapon_3
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 263
-        width: 13
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 53c98083a365afe20800000000000000
-      internalID: 3385112877970529333
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Attack_NoWeapon_4
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 231
-        width: 14
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ccf02353349bd7ba0800000000000000
-      internalID: -6089507422828621876
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Attack_NoWeapon_5
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 231
-        width: 15
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 110bb26f4646c5fb0800000000000000
-      internalID: -4657737529818370031
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Attack_NoWeapon_6
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 231
-        width: 14
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cf1e75905f28d1a90800000000000000
-      internalID: -7341567828608687620
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Attack_NoWeapon_7
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 231
-        width: 13
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 04d469d3e53d8cff0800000000000000
-      internalID: -15530196982149824
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Attack_NoWeapon_8
+      name: Player_Attack_Anim_0
       rect:
         serializedVersion: 2
         x: 7
-        y: 199
-        width: 15
-        height: 19
+        y: 262
+        width: 16
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -409,20 +233,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c2c1cea64179a0d70800000000000000
-      internalID: 9010180118457097260
+      spriteID: 976918fd4aacf4bc0800000000000000
+      internalID: -3796593151376779655
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Attack_NoWeapon_9
+      name: Player_Attack_Anim_1
       rect:
         serializedVersion: 2
-        x: 41
-        y: 199
-        width: 13
-        height: 20
+        x: 38
+        y: 262
+        width: 17
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -431,20 +255,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6d21693c7dc8b3d30800000000000000
-      internalID: 4412275118266782422
+      spriteID: 703ceefa1cc4c92e0800000000000000
+      internalID: -2117733330006916345
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Attack_NoWeapon_10
+      name: Player_Attack_Anim_2
       rect:
         serializedVersion: 2
         x: 72
-        y: 199
-        width: 14
-        height: 20
+        y: 262
+        width: 16
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -453,42 +277,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 404ae121098753830800000000000000
-      internalID: 4050276000064250884
+      spriteID: 19b26246e9c0b1fe0800000000000000
+      internalID: -1217365399848997999
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Attack_NoWeapon_11
+      name: Player_Attack_Anim_3
       rect:
         serializedVersion: 2
-        x: 105
-        y: 199
-        width: 13
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8d81b03250c399680800000000000000
-      internalID: -8747894808430044968
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Attack_NoWeapon_12
-      rect:
-        serializedVersion: 2
-        x: 10
-        y: 167
+        x: 104
+        y: 262
         width: 15
-        height: 19
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -497,86 +299,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 30cecc4007a6512a0800000000000000
-      internalID: -6767385835704882173
+      spriteID: 119499905eafa2b70800000000000000
+      internalID: 8875181877302479121
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Attack_NoWeapon_13
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 167
-        width: 14
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ce3fac74d5e767f60800000000000000
-      internalID: 8031745924563399660
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Attack_NoWeapon_14
-      rect:
-        serializedVersion: 2
-        x: 73
-        y: 167
-        width: 14
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 766194273e569a0b0800000000000000
-      internalID: -5716926224420759961
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Attack_NoWeapon_15
-      rect:
-        serializedVersion: 2
-        x: 106
-        y: 167
-        width: 13
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 41d512b24c829ce30800000000000000
-      internalID: 4524192123672681748
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Attack_NoWeapon_16
+      name: Player_Attack_Anim_4
       rect:
         serializedVersion: 2
         x: 8
-        y: 135
-        width: 14
-        height: 19
+        y: 230
+        width: 16
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -585,284 +321,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2213ff9463980aa80800000000000000
-      internalID: -8457609233939091166
+      spriteID: a1b91c41abefbb520800000000000000
+      internalID: 2719046875213830938
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Attack_NoWeapon_17
-      rect:
-        serializedVersion: 2
-        x: 42
-        y: 135
-        width: 15
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: decaf754d829d4bb0800000000000000
-      internalID: -4950139279956267795
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Attack_NoWeapon_18
-      rect:
-        serializedVersion: 2
-        x: 74
-        y: 135
-        width: 13
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d2a3157b55980b520800000000000000
-      internalID: 2715821576545188397
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Attack_NoWeapon_19
-      rect:
-        serializedVersion: 2
-        x: 106
-        y: 135
-        width: 13
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8b1819a13fb7ad3e0800000000000000
-      internalID: -2028172398123974216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Attack_NoWeapon_20
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 103
-        width: 14
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8d5269f8a40593b20800000000000000
-      internalID: 3114608898470192600
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Attack_NoWeapon_21
-      rect:
-        serializedVersion: 2
-        x: 42
-        y: 103
-        width: 15
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f3f9ad65901c8ff30800000000000000
-      internalID: 4609646464469737279
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Attack_NoWeapon_22
-      rect:
-        serializedVersion: 2
-        x: 74
-        y: 103
-        width: 13
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9ce6af528e9169c70800000000000000
-      internalID: 8977391392069938889
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Attack_NoWeapon_23
-      rect:
-        serializedVersion: 2
-        x: 106
-        y: 103
-        width: 13
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6c4fd258388e22990800000000000000
-      internalID: -7412106385125673786
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Attack_NoWeapon_24
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 71
-        width: 13
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3dc5c79bc62239410800000000000000
-      internalID: 1482566552698772691
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Attack_NoWeapon_25
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 71
-        width: 14
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d98b208fece667f30800000000000000
-      internalID: 4572964306844563613
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Attack_NoWeapon_26
-      rect:
-        serializedVersion: 2
-        x: 73
-        y: 71
-        width: 13
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 620b947301567bed0800000000000000
-      internalID: -2398337156230041562
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Attack_NoWeapon_27
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 71
-        width: 13
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f008b32009d4f8660800000000000000
-      internalID: 7390210794446356495
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Attack_NoWeapon_28
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 39
-        width: 13
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 316fbf68aacaa6440800000000000000
-      internalID: 4929942590519506451
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Attack_NoWeapon_29
+      name: Player_Attack_Anim_5
       rect:
         serializedVersion: 2
         x: 40
-        y: 39
-        width: 14
-        height: 20
+        y: 230
+        width: 17
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -871,20 +343,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1fa6cc59da625f780800000000000000
-      internalID: -8649964982310769935
+      spriteID: a0b9d81ab1f4ec410800000000000000
+      internalID: 1499222706054077194
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Attack_NoWeapon_30
+      name: Player_Attack_Anim_6
       rect:
         serializedVersion: 2
-        x: 73
-        y: 39
-        width: 13
-        height: 20
+        x: 71
+        y: 230
+        width: 16
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -893,20 +365,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e505de77e5bb939c0800000000000000
-      internalID: -3946917584000167842
+      spriteID: c3bee3a122f40fd30800000000000000
+      internalID: 4463154238611974972
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Attack_NoWeapon_31
+      name: Player_Attack_Anim_7
       rect:
         serializedVersion: 2
-        x: 105
-        y: 39
-        width: 13
-        height: 20
+        x: 104
+        y: 230
+        width: 15
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -915,20 +387,108 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5c1c81a045b164460800000000000000
-      internalID: 7225492699923136965
+      spriteID: c4299973173c0d220800000000000000
+      internalID: 2508719883476898380
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Attack_NoWeapon_32
+      name: Player_Attack_Anim_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 198
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f050b1eaaf812af40800000000000000
+      internalID: 5738176340165330191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Attack_Anim_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 198
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678bb4c0fd690dae0800000000000000
+      internalID: -1526554388950435722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Attack_Anim_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 198
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022ad3160631c1c30800000000000000
+      internalID: 4331358246292791840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Attack_Anim_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 198
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49547d64efcdffbb0800000000000000
+      internalID: -4899954884887493228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Attack_Anim_12
       rect:
         serializedVersion: 2
         x: 9
-        y: 7
-        width: 14
-        height: 19
+        y: 166
+        width: 17
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -937,20 +497,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 212dbed63d5b9d560800000000000000
-      internalID: 7339096987463832082
+      spriteID: cc39ee8b3cbfe97b0800000000000000
+      internalID: -5215454500408618036
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Attack_NoWeapon_33
+      name: Player_Attack_Anim_13
       rect:
         serializedVersion: 2
-        x: 41
-        y: 7
-        width: 14
-        height: 20
+        x: 39
+        y: 166
+        width: 16
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -959,20 +519,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2578bbd6d9ff68da0800000000000000
-      internalID: -5942781606652836014
+      spriteID: dfea387a1052a01b0800000000000000
+      internalID: -5689694490193580291
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Attack_NoWeapon_34
+      name: Player_Attack_Anim_14
       rect:
         serializedVersion: 2
-        x: 73
-        y: 7
-        width: 13
-        height: 20
+        x: 72
+        y: 166
+        width: 16
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -981,20 +541,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b7cf9780580dd2ae0800000000000000
-      internalID: -1572371425090995077
+      spriteID: 6da18e3fb426bc9d0800000000000000
+      internalID: -2752998668852782378
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Attack_NoWeapon_35
+      name: Player_Attack_Anim_15
       rect:
         serializedVersion: 2
         x: 105
-        y: 7
-        width: 13
-        height: 20
+        y: 166
+        width: 15
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1003,8 +563,448 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 120baa06e11fc8a00800000000000000
-      internalID: 760247549891883041
+      spriteID: d1a91440cc0f42fc0800000000000000
+      internalID: -3520424249661482467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Attack_Anim_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 134
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f580348ebb0387b10800000000000000
+      internalID: 1979385619843057759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Attack_Anim_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 134
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e790b833469fd7ff0800000000000000
+      internalID: -36599013192300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Attack_Anim_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 134
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da79ef05738b2f6d0800000000000000
+      internalID: -2958099457507420243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Attack_Anim_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 134
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06493c6accb3cf00800000000000000
+      internalID: 1135959108612605454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Attack_Anim_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 102
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1c16b810298d8e0800000000000000
+      internalID: -1668423126609706571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Attack_Anim_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 102
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9d6d0964a7221f0800000000000000
+      internalID: -1071159317864457815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Attack_Anim_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 102
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48efe295fffc8ee0800000000000000
+      internalID: -1257348765745944498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Attack_Anim_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 102
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accad0cb792533e60800000000000000
+      internalID: 7940781379632868554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Attack_Anim_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 70
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d7125b67d395530800000000000000
+      internalID: 3844171336991735128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Attack_Anim_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 70
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5eb240048edbe20800000000000000
+      internalID: 3368103457988535768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Attack_Anim_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 70
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025a1eb9dff0c5930800000000000000
+      internalID: 4133196139935671584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Attack_Anim_27
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 70
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571cd8e52908b3430800000000000000
+      internalID: 3763743279738110325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Attack_Anim_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 38
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9623264d1698980800000000000000
+      internalID: -8536184053895632399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Attack_Anim_29
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 38
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fee6590d31800ea0800000000000000
+      internalID: -5908580611960410375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Attack_Anim_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 38
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4298a2fbbf2b051b0800000000000000
+      internalID: -5669835136545683164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Attack_Anim_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 38
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5028540d3ac9390800000000000000
+      internalID: -7810187538852608592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Attack_Anim_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07e0ca563d5fb130800000000000000
+      internalID: 3584686316442412814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Attack_Anim_33
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 6
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45693a839c1ae8c80800000000000000
+      internalID: -8318533576095984044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Attack_Anim_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 6
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c59f1dd62a250ba0800000000000000
+      internalID: -6123441771933362747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Attack_Anim_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 6
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a2bb72a0b0c0e30800000000000000
+      internalID: 4470960668316215822
       vertices: []
       indices: 
       edges: []
@@ -1013,7 +1013,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 10f7ed8f805677f42a65a7323fe8739e
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -1023,42 +1023,42 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Player_Attack_NoWeapon_0: -4607577486004578798
-      Player_Attack_NoWeapon_1: -1595969989498960136
-      Player_Attack_NoWeapon_10: 4050276000064250884
-      Player_Attack_NoWeapon_11: -8747894808430044968
-      Player_Attack_NoWeapon_12: -6767385835704882173
-      Player_Attack_NoWeapon_13: 8031745924563399660
-      Player_Attack_NoWeapon_14: -5716926224420759961
-      Player_Attack_NoWeapon_15: 4524192123672681748
-      Player_Attack_NoWeapon_16: -8457609233939091166
-      Player_Attack_NoWeapon_17: -4950139279956267795
-      Player_Attack_NoWeapon_18: 2715821576545188397
-      Player_Attack_NoWeapon_19: -2028172398123974216
-      Player_Attack_NoWeapon_2: 4824966484558197520
-      Player_Attack_NoWeapon_20: 3114608898470192600
-      Player_Attack_NoWeapon_21: 4609646464469737279
-      Player_Attack_NoWeapon_22: 8977391392069938889
-      Player_Attack_NoWeapon_23: -7412106385125673786
-      Player_Attack_NoWeapon_24: 1482566552698772691
-      Player_Attack_NoWeapon_25: 4572964306844563613
-      Player_Attack_NoWeapon_26: -2398337156230041562
-      Player_Attack_NoWeapon_27: 7390210794446356495
-      Player_Attack_NoWeapon_28: 4929942590519506451
-      Player_Attack_NoWeapon_29: -8649964982310769935
-      Player_Attack_NoWeapon_3: 3385112877970529333
-      Player_Attack_NoWeapon_30: -3946917584000167842
-      Player_Attack_NoWeapon_31: 7225492699923136965
-      Player_Attack_NoWeapon_32: 7339096987463832082
-      Player_Attack_NoWeapon_33: -5942781606652836014
-      Player_Attack_NoWeapon_34: -1572371425090995077
-      Player_Attack_NoWeapon_35: 760247549891883041
-      Player_Attack_NoWeapon_4: -6089507422828621876
-      Player_Attack_NoWeapon_5: -4657737529818370031
-      Player_Attack_NoWeapon_6: -7341567828608687620
-      Player_Attack_NoWeapon_7: -15530196982149824
-      Player_Attack_NoWeapon_8: 9010180118457097260
-      Player_Attack_NoWeapon_9: 4412275118266782422
+      Player_Attack_Anim_0: -3796593151376779655
+      Player_Attack_Anim_1: -2117733330006916345
+      Player_Attack_Anim_10: 4331358246292791840
+      Player_Attack_Anim_11: -4899954884887493228
+      Player_Attack_Anim_12: -5215454500408618036
+      Player_Attack_Anim_13: -5689694490193580291
+      Player_Attack_Anim_14: -2752998668852782378
+      Player_Attack_Anim_15: -3520424249661482467
+      Player_Attack_Anim_16: 1979385619843057759
+      Player_Attack_Anim_17: -36599013192300162
+      Player_Attack_Anim_18: -2958099457507420243
+      Player_Attack_Anim_19: 1135959108612605454
+      Player_Attack_Anim_2: -1217365399848997999
+      Player_Attack_Anim_20: -1668423126609706571
+      Player_Attack_Anim_21: -1071159317864457815
+      Player_Attack_Anim_22: -1257348765745944498
+      Player_Attack_Anim_23: 7940781379632868554
+      Player_Attack_Anim_24: 3844171336991735128
+      Player_Attack_Anim_25: 3368103457988535768
+      Player_Attack_Anim_26: 4133196139935671584
+      Player_Attack_Anim_27: 3763743279738110325
+      Player_Attack_Anim_28: -8536184053895632399
+      Player_Attack_Anim_29: -5908580611960410375
+      Player_Attack_Anim_3: 8875181877302479121
+      Player_Attack_Anim_30: -5669835136545683164
+      Player_Attack_Anim_31: -7810187538852608592
+      Player_Attack_Anim_32: 3584686316442412814
+      Player_Attack_Anim_33: -8318533576095984044
+      Player_Attack_Anim_34: -6123441771933362747
+      Player_Attack_Anim_35: 4470960668316215822
+      Player_Attack_Anim_4: 2719046875213830938
+      Player_Attack_Anim_5: 1499222706054077194
+      Player_Attack_Anim_6: 4463154238611974972
+      Player_Attack_Anim_7: 2508719883476898380
+      Player_Attack_Anim_8: 5738176340165330191
+      Player_Attack_Anim_9: -1526554388950435722
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
