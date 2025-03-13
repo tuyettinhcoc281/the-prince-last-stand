@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 5718faf8f034c664c80a4db9d78f96a4
+  productGUID: 91fa29de217563844a71e38c634921b5
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: THE PRINCE'S LAST STAND
+  productName: 2D Top Down RPG
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -609,14 +609,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: THE PRINCE'S LAST STAND
+  metroPackageName: 2D Top Down RPG
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: THE PRINCE'S LAST STAND
+  metroApplicationDescription: 2D Top Down RPG
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -687,10 +687,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 15154a78-a733-4a80-96dd-8b2437474aaf
+  cloudProjectId: 80a43cb4-bed6-4f5d-9d3a-d3eb185bd825
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: THE PRINCE'S LAST STAND
+  projectName: 2D Top Down RPG 2025-01-13_14-29-04
   organizationId: giangchhe180499
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
