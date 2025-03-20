@@ -8,13 +8,11 @@ public class SpriteFade : MonoBehaviour
 
     private SpriteRenderer spriteRenderer;
 
-    private void Awake()
-    {
+    private void Awake() {
         spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
-    public IEnumerator SlowFadeRoutine()
-    {
+    public IEnumerator SlowFadeRoutine() {
         float elapsedTime = 0;
         float startValue = spriteRenderer.color.a;
 

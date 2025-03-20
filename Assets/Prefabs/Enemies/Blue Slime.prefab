@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 8303595952410231435}
   - component: {fileID: 2832856172824779945}
-  - component: {fileID: 664135040444296251}
   - component: {fileID: 6195436468795316646}
   - component: {fileID: 996553431667977765}
   - component: {fileID: 8059913867439895041}
@@ -18,6 +17,8 @@ GameObject:
   - component: {fileID: 6258103971115028295}
   - component: {fileID: 3454782317772071045}
   - component: {fileID: 2872265191044155826}
+  - component: {fileID: 664135040444296251}
+  - component: {fileID: 3534195664239623904}
   m_Layer: 0
   m_Name: Blue Slime
   m_TagString: Untagged
@@ -95,19 +96,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &664135040444296251
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4189496403367699063}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a38a141d55adaef4c8bb46fb70122366, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  roamChangeDirFloat: 2
 --- !u!114 &6195436468795316646
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -249,3 +237,42 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &664135040444296251
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4189496403367699063}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a38a141d55adaef4c8bb46fb70122366, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  roamChangeDirFloat: 2
+  attackRange: 5
+  enemyType: {fileID: 3534195664239623904}
+  attackCooldown: 2
+  stopMovingWhileAttacking: 0
+--- !u!114 &3534195664239623904
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4189496403367699063}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc756d8843c68a446b75c97ddcbccab0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bulletPrefab: {fileID: 9065657717617831903, guid: 931a11a7b68d13c43bf8b79ee5b18e3e, type: 3}
+  bulletMoveSpeed: 0.1
+  burstCount: 1
+  projectilesPerBurst: 1
+  angleSpread: 0
+  startingDistance: 0.1
+  timeBetweenBursts: 0.1
+  restTime: 1
+  stagger: 0
+  oscillate: 0
