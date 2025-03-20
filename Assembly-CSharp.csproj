@@ -69,6 +69,7 @@
     <Compile Include="Assets\Scripts\Player\Player Controls.cs" />
     <Compile Include="Assets\Scripts\Enemies\Shooter.cs" />
     <Compile Include="Assets\Scripts\Player\ActiveWeapon.cs" />
+    <Compile Include="Assets\Scripts\Misc\EconomyManager.cs" />
     <Compile Include="Assets\Scripts\Enemies\EnemyPathfinding.cs" />
     <Compile Include="Assets\Scripts\Management\AreaExit.cs" />
     <Compile Include="Assets\Scripts\UI\InventorySlot.cs" />
@@ -98,6 +99,7 @@
     <Compile Include="Assets\Scripts\Management\SceneManagement.cs" />
     <Compile Include="Assets\Scripts\Misc\Destructible.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerHealth.cs" />
+    <Compile Include="Assets\Scripts\Player\Stamina.cs" />
     <Compile Include="Assets\Scripts\Indestructible.cs" />
     <Compile Include="Assets\Scripts\UI\IWeapon.cs" />
     <Compile Include="Assets\Scripts\Enemies\EnemyAI.cs" />
