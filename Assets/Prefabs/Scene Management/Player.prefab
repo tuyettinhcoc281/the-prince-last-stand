@@ -361,6 +361,7 @@ GameObject:
   - component: {fileID: 5420777125171350922}
   - component: {fileID: 1281183386561492481}
   - component: {fileID: 1207877254233176313}
+  - component: {fileID: 1441627278204552990}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -586,6 +587,21 @@ CapsuleCollider2D:
   m_Offset: {x: -0.02686843, y: -0.20362623}
   m_Size: {x: 0.66865987, y: 0.5753497}
   m_Direction: 1
+--- !u!114 &1441627278204552990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6228889841097272393}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51b3250781b5a794cade99b7642ddd5c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fullStaminaImage: {fileID: -7799045602948881875, guid: 17960844efe49594a90cdf02f6fc6710, type: 3}
+  emptyStaminaImage: {fileID: 4634418647378881802, guid: 918636289443370439c822073535b926, type: 3}
+  timeBetweenStaminaRefresh: 3
 --- !u!1 &6952764281764096688
 GameObject:
   m_ObjectHideFlags: 0
