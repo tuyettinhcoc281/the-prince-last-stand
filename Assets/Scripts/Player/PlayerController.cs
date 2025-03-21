@@ -31,7 +31,6 @@ public class PlayerController : Singleton<PlayerController>
         myAnimator = GetComponent<Animator>();
         mySpriteRender = GetComponent<SpriteRenderer>();
         knockback = GetComponent<Knockback>();
-        DontDestroyOnLoad(gameObject);
     }
 
     private void Start() {
