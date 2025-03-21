@@ -65,20 +65,74 @@
     <Analyzer Include="F:\Unity\6000.0.36f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\UI\Magic Laser.cs" />
     <Compile Include="Assets\Scripts\Player\Player Controls.cs" />
+    <Compile Include="Assets\Scripts\Enemies\Shooter.cs" />
     <Compile Include="Assets\Scripts\Player\ActiveWeapon.cs" />
+    <Compile Include="Assets\Scripts\Misc\EconomyManager.cs" />
     <Compile Include="Assets\Scripts\Enemies\EnemyPathfinding.cs" />
+    <Compile Include="Assets\Scripts\Management\AreaExit.cs" />
+    <Compile Include="Assets\Scripts\UI\InventorySlot.cs" />
+    <Compile Include="Assets\Scripts\Management\Singleton.cs" />
+    <Compile Include="Assets\Scripts\Management\AreaEntrance.cs" />
     <Compile Include="Assets\Scripts\Enemies\EnemyHealth.cs" />
+    <Compile Include="Assets\Scripts\Management\CameraController.cs" />
+    <Compile Include="Assets\Scripts\Management\UIFade.cs" />
+    <Compile Include="Assets\Scripts\UI\WeaponInfo.cs" />
     <Compile Include="Assets\Scripts\Player\SlashAnim.cs" />
     <Compile Include="Assets\Scripts\Player\Sword.cs" />
+    <Compile Include="Assets\Scripts\Pickup.cs" />
+    <Compile Include="Assets\Scripts\Misc\Parallax.cs" />
+    <Compile Include="Assets\Scripts\Misc\ScreenShakeManager.cs" />
+    <Compile Include="Assets\Scripts\Player\Projectile.cs" />
     <Compile Include="Assets\Scripts\Misc\Flash.cs" />
+    <Compile Include="Assets\Scripts\Enemies\RandomIdleAnimation.cs" />
     <Compile Include="Assets\Scripts\Player\DamageSource.cs" />
+    <Compile Include="Assets\Scripts\Management\BaseSingleton.cs" />
+    <Compile Include="Assets\Scripts\UI\MouseFollow.cs" />
+    <Compile Include="Assets\Scripts\UI\Bow.cs" />
+    <Compile Include="Assets\Scripts\PickUpSpawner.cs" />
+    <Compile Include="Assets\Scripts\SpriteFade.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\Enemies\IEnemy.cs" />
     <Compile Include="Assets\Scripts\Misc\Knockback.cs" />
+    <Compile Include="Assets\Scripts\Management\SceneManagement.cs" />
+    <Compile Include="Assets\Scripts\Misc\Destructible.cs" />
+    <Compile Include="Assets\Scripts\Player\PlayerHealth.cs" />
+    <Compile Include="Assets\Scripts\Player\Stamina.cs" />
+    <Compile Include="Assets\Scripts\Indestructible.cs" />
+    <Compile Include="Assets\Scripts\UI\IWeapon.cs" />
     <Compile Include="Assets\Scripts\Enemies\EnemyAI.cs" />
+    <Compile Include="Assets\Scripts\Misc\TransparentDetection.cs" />
+    <Compile Include="Assets\Scripts\UI\ActivateInventory.cs" />
+    <Compile Include="Assets\Scripts\UI\Staff.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile-2-Pass.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\SDFFunctions.hlsl" />
+    <None Include="Assets\Sprites\Cute_Fantasy2\Cute_Fantasy\read_me.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+    <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\Sprites\Cute_Fantasy\read_me.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
