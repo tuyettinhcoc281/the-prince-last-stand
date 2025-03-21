@@ -31,16 +31,23 @@ public class PlayerController : Singleton<PlayerController>
         myAnimator = GetComponent<Animator>();
         mySpriteRender = GetComponent<SpriteRenderer>();
         knockback = GetComponent<Knockback>();
+        DontDestroyOnLoad(gameObject);
     }
 
     private void Start() {
         playerControls.Combat.Dash.performed += _ => Dash();
 
         startingMoveSpeed = moveSpeed;
+
+        ActiveInventory.Instance.EquipStartingWeapon();
     }
 
     private void OnEnable() {
         playerControls.Enable();
+    }
+
+    private void OnDisable() {
+        playerControls.Disable();
     }
 
     private void Update() {
@@ -64,7 +71,7 @@ public class PlayerController : Singleton<PlayerController>
     }
 
     private void Move() {
-        if (knockback.GettingKnockedBack) { return; }
+        if (knockback.GettingKnockedBack || PlayerHealth.Instance.isDead) { return; }
 
         rb.MovePosition(rb.position + movement * (moveSpeed * Time.fixedDeltaTime));
     }

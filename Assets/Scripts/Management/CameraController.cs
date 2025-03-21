@@ -5,33 +5,15 @@ using Unity.Cinemachine;
 
 public class CameraController : Singleton<CameraController>
 {
-    private CinemachineCamera cinemachineVirtualCamera;
+    private CinemachineCamera cinemachineCamera;
 
-    private void Start()
-    {
+    private void Start() {
         SetPlayerCameraFollow();
     }
- 
 
-    protected override void Awake()
-    {
-        base.Awake();
-        cinemachineVirtualCamera = FindObjectOfType<CinemachineCamera>();
-        if (cinemachineVirtualCamera == null)
-        {
-            Debug.LogError("CinemachineVirtualCamera not found in the scene.");
-        }
+    public void SetPlayerCameraFollow() {
+        cinemachineCamera = FindObjectOfType<CinemachineCamera>();
+        cinemachineCamera.Follow = PlayerController.Instance.transform;
     }
-
-    public void SetPlayerCameraFollow()
-    {
-        if (cinemachineVirtualCamera != null)
-        {
-            cinemachineVirtualCamera.Follow = PlayerController.Instance.transform;
-        }
-        else
-        {
-            Debug.LogError("CinemachineVirtualCamera is not initialized."); 
-        }
-    }
+    
 }
