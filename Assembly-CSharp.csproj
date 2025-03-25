@@ -70,7 +70,6 @@
     <Compile Include="Assets\Scripts\Player\Player Controls.cs" />
     <Compile Include="Assets\Scripts\Enemies\Shooter.cs" />
     <Compile Include="Assets\Scripts\Player\ActiveWeapon.cs" />
-    <Compile Include="Assets\Scripts\UI\MainMenu.cs" />
     <Compile Include="Assets\Scripts\Misc\EconomyManager.cs" />
     <Compile Include="Assets\Scripts\Enemies\EnemyPathfinding.cs" />
     <Compile Include="Assets\Scripts\Management\AreaExit.cs" />
@@ -79,6 +78,7 @@
     <Compile Include="Assets\Scripts\Management\AreaEntrance.cs" />
     <Compile Include="Assets\Scripts\Enemies\EnemyHealth.cs" />
     <Compile Include="Assets\Scripts\Management\CameraController.cs" />
+    <Compile Include="Assets\Scripts\Management\PauseMenu.cs" />
     <Compile Include="Assets\Scripts\Management\UIFade.cs" />
     <Compile Include="Assets\Scripts\UI\WeaponInfo.cs" />
     <Compile Include="Assets\Scripts\Player\SlashAnim.cs" />
@@ -97,6 +97,7 @@
     <Compile Include="Assets\Scripts\SpriteFade.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerController.cs" />
     <Compile Include="Assets\Scripts\Enemies\IEnemy.cs" />
+    <Compile Include="Assets\Scripts\Management\MainMenu.cs" />
     <Compile Include="Assets\Scripts\Misc\Knockback.cs" />
     <Compile Include="Assets\Scripts\Management\SceneManagement.cs" />
     <Compile Include="Assets\Scripts\Misc\Destructible.cs" />

@@ -27,7 +27,9 @@ public class Sword : MonoBehaviour, IWeapon
 
     private void Update()
     {
+        if(!PauseMenu.isPaused){
         MouseFollowWithOffset();
+        }
     }
 
     public WeaponInfo GetWeaponInfo()
